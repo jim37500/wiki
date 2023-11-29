@@ -1,6 +1,6 @@
 # wiki
 ## Demo
-[![Demo]](https://www.youtube.com/watch?v=tdc1k5QuOTE&t=2s)
+[![Demo](https://github.com/jim37500/wiki/blob/main/Demo.png)](https://www.youtube.com/watch?v=tdc1k5QuOTE&t=2s)
 ## Specification
 ### Entry Page
 Visiting /wiki/TITLE, where TITLE is the title of an encyclopedia entry, should render a page that displays the contents of that encyclopedia entry.
